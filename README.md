@@ -2,7 +2,7 @@
 
 # Hi, I'm Ranran 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=20&pause=1200&color=2EA043&center=true&vCenter=true&width=460&lines=%E5%96%9C%E6%AC%A2%E6%8A%98%E8%85%BE%E9%A1%BA%E6%89%8B%E7%9A%84%E5%B0%8F%E5%B7%A5%E5%85%B7;Building+small+tools+that+make+life+easier;Windows+%C2%B7+Web+%C2%B7+Bots+%C2%B7+AI" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?size=20&pause=1200&color=2EA043&center=true&vCenter=true&width=460&lines=%E5%96%9C%E6%AC%A2%E6%8A%98%E8%85%BE%E9%A1%BA%E6%89%8B%E7%9A%84%E5%B0%8F%E5%B7%A5%E5%85%B7;Building+small+tools+that+make+life+easier;Windows+%C2%B7+Web+%C2%B7+Bots+%C2%B7+AI" alt="typing" />
 
 </div>
 
@@ -28,7 +28,7 @@
 ### 📊 GitHub 统计
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=501428005a-sys&show_icons=true&hide_border=true&theme=transparent&hide_title=false" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=501428005a-sys&show_icons=true&hide_border=true&theme=transparent&custom_title=Ranran%27s%20GitHub%20Stats" alt="stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=501428005a-sys&layout=compact&hide_border=true&theme=transparent" alt="top languages" />
 </p>
 
